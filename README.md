@@ -25,4 +25,4 @@ Você pode contribuir com a evolução da library. Para isso, verifique as issue
 * IBM Watson - http://www.ibm.com/watson/
 * Unirest PHP - https://github.com/Mashape/unirest-php
 * Repositório da library IBMWatsonVR para CodeIgniter - https://github.com/jlamim/codeigniter-ibm-watson-visual-recognition
-* Tutorial sobre a integração do CodeIgniter com a API do Visual Recognition - 
+* Tutorial sobre a integração do CodeIgniter com a API do Visual Recognition - http://www.universidadecodeigniter.com.br/integracao-inicial-entre-codeigniter-e-visual-recognition/
